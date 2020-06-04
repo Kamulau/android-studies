@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirst App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="notification_send">Notify</string>
+    <string name="default_message_1">Hello World!</string>
+    <string name="default_message_2">Goodbye, World!</string>
+    <string name="channel_name">"MyFirstApp"</string>
+    <string name="channel_description">"Kamu's first android app"</string>
+</resources>
